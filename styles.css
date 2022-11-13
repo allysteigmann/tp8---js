@@ -9,7 +9,6 @@
   height: 80vh;
   position: relative;
   margin: 10vh auto;
-  border: 1px solid #ccc;
 }
 
 .card {
@@ -51,4 +50,8 @@
 .pic2 .cardFront {
   background-image: url(images/bluepattern.png);
   background-size: cover;
+}
+
+.card.matched div {
+  display: none;
 }
