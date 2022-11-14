@@ -52,6 +52,16 @@
   background-size: cover;
 }
 
+.pic3 .cardFront {
+  background-image: url(images/greenpattern.png);
+  background-size: cover;
+}
+
+.pic4 .cardFront {
+  background-image: url(images/redpattern.png);
+  background-size: cover;
+}
+
 .card.matched div {
   display: none;
 }
